@@ -11,7 +11,7 @@
 
 // ownToLocaleString(10000)  --> '10,000'
 // ownToLocaleString(458370)  --> '458,370'
-// ownToLocaleString(1000000)  --> '10,000,00'
+// ownToLocaleString(1000000)  --> '1,000,000'
 // ownToLocaleString(345)  --> '345'
 // ownToLocaleString(45)  --> '45'
 // ownToLocaleString('hello')  --> undefined
