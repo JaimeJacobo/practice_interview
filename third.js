@@ -5,7 +5,7 @@
 
 // It will only receive numbers greater than 0
 // If it receives any other data type rather than a number as an argument, it should return undefined
-// The output should be a string
+// The output should be a string (or undefined)
 
 // Examples:
 
