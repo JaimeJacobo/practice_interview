@@ -1,5 +1,5 @@
 
-// Without using already built functions (such as reverse()), create a funtion that, given an initial array, returns a new array with all the items reversed.
+// Without using already built functions (such as reverse()), create a function that, given an initial array, returns a new array with all the items reversed.
 
 // Some conditions:
 
