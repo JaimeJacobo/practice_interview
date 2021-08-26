@@ -16,7 +16,7 @@
 // ownToLocaleString('hello')  --> undefined
 
 const ownToLocaleString = (number) => {
-   if (number > 3) {
+   if (number > 0) {
       let result = number.toString().split('');
       for (let i = result.length - 3; i > 0; i = i - 3) {
          result.splice(i, 0, ',');
